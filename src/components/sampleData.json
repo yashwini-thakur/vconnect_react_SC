@@ -1,0 +1,74 @@
+{
+  "dataList": [
+    {
+      "name": "Dev Patel",
+      "email": "dev212001@gmail.com",
+      "Password": "Dev@123",
+      "mobile": 9428592869,
+      "college": "Alpha Engg"
+    },
+    {
+      "name": "Rutvik Patel",
+      "email": "rutvik7070@gmail.com",
+      "Password": "Rutvi@123",
+      "mobile": 9428592870,
+      "college": "Alpha Engg"
+    },
+    {
+      "name": "Anuj Patel",
+      "email": "anuj3030@gmail.com",
+      "Password": "Anuj@123",
+      "mobile": 9428592871,
+      "college": "Alpha Engg"
+    },
+    {
+      "name": "Rutvik Patel",
+      "email": "rutvik123@gmail.com",
+      "Password": "Rutvikpatel@123",
+      "mobile": 942859272,
+      "college": "SSIT"
+    },
+    {
+      "name": "Parth Parikh",
+      "email": "parth123@gmail.com",
+      "Password": "Parth@123",
+      "mobile": 942859273,
+      "college": "SSIT"
+    },
+    {
+      "name": "Akshay vagela",
+      "email": "akshayvagela@gmail.com",
+      "Password": "Akshay@123",
+      "mobile": 9428592874,
+      "college": "SSIT"
+    },
+    {
+      "name": "Nihar Patel",
+      "email": "nihar@gmail.com",
+      "Password": "Nihar@123",
+      "mobile": 9428592875,
+      "college": "AIT"
+    },
+    {
+      "name": "Viashal vyas",
+      "email": "vaishal@gmail.com",
+      "Password": "vaishal@123",
+      "mobile": 9428592876,
+      "college": "SSIT"
+    },
+    {
+      "name": "Yashwini thakur",
+      "email": "yashwini@gmail.com",
+      "Password": "Yashwini@123",
+      "mobile": 9428592877,
+      "college": "LJ"
+    },
+    {
+      "name": "Rajvi",
+      "email": "rajvi@gmail.com",
+      "Password": "rajvi@123",
+      "mobile": 9428592878,
+      "college": "LJ"
+    }
+  ]
+}
