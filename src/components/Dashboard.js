@@ -3,6 +3,7 @@ import React from "react";
 import { GetList } from "./GetList";
 import { Link } from "react-router-dom";
 import { useEffect, useState } from "react";
+//import Table from "./Table";
 function Dashboard() {
   const userDetail = JSON.parse(localStorage.getItem("userDetail"));
   const [list, setList] = useState([]);
@@ -19,12 +20,7 @@ function Dashboard() {
   }, []);
   const trykaro = () => {
     console.log("the original list", list);
-    //var apilisting = document.getElementById("apilisting");
-    // list.data.map((object) => {
-    //   return console.log(object.name);
-    // });
   };
-
   //to delete data
   const deleteStorage = () => {
     localStorage.clear();
@@ -99,24 +95,18 @@ function Dashboard() {
             <p class="lead">
               <div id="hide"></div>
               <div id="apilisting"></div>
-              <table>
-                <thead>
-                  <tr>
-                    <th>Data</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {/* <script> */}
-                  {list.data.map((obj) => {
-                    return (
-                      <tr key={obj.name}>
-                        <th>{obj.name}</th>
-                      </tr>
-                    );
-                  })}
-                  {/* </script> */}
-                </tbody>
-              </table>
+              <div id="userlist"></div>
+              {list.data?.map((data) => {
+                return (
+                  <table>
+                    <tr>
+                      <td>{data.name}</td>
+                      <td>{data.id}</td>
+                      <td>{data.year}</td>
+                    </tr>
+                  </table>
+                );
+              })}
             </p>
           </div>
         </div>
