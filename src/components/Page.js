@@ -1,6 +1,7 @@
 // import "./Page_style.css";
 import React from "react";
 import { Link } from "react-router-dom";
+//import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function Page() {
   return (
     <>
@@ -31,11 +32,11 @@ function Page() {
           <title>VConnect</title>
         </head>
         <body>
-          <nav class="navbar bg-dark">
+          {/* <nav class="navbar bg-dark">
             <h1>
               <a href="dashboard.html">
-                {" "}
-                <i class="fa-solid fa-globe"></i>Lorem Ipsum{" "}
+                <FontAwesomeIcon icon="fa-solid fa-globe" />
+                VConnect
               </a>
             </h1>
             <ul>
@@ -56,39 +57,26 @@ function Page() {
                 </a>
               </li>
             </ul>
-          </nav>
+          </nav> */}
           <section class="landing">
             <div class="dark-overlay">
               <div class="landing-inner">
                 <h1 class="x-large">This is the Home Page</h1>
                 <p class="lead">
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident, sunt in culpa qui officia deserunt
-                  mollit anim id est laborum."
+                  Download lecture notes, textbook PDFs and get access to video
+                  lectures for all Engineering Branches.
                 </p>
                 <div class="buttons">
                   <Link class="btn btn-primary" to="/Login">
                     Sign Up
                   </Link>
-                  <a href="cards.html" class="btn btn">
+                  <Link to="/login" class="btn btn">
                     Log In
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
           </section>
-
-          {/* <script>
-      function myfun() {
-        var element = document.body;
-        element.classList.toggle("dark-mode");
-      }
-    </script> */}
         </body>
       </html>
     </>
