@@ -61,7 +61,7 @@ function Page() {
           <section class="landing">
             <div class="dark-overlay">
               <div class="landing-inner">
-                <h1 class="x-large">This is the Home Page</h1>
+                <h1 class="x-large">Get Your Study Material Here</h1>
                 <p class="lead">
                   Download lecture notes, textbook PDFs and get access to video
                   lectures for all Engineering Branches.

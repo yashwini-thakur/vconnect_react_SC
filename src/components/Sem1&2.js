@@ -47,52 +47,6 @@ function Sem1_2() {
                           Name
                         </span>{" "}
                       </th>
-                      <th rowSpan="2">
-                        {" "}
-                        <span>Credit</span>{" "}
-                      </th>
-                      <th
-                        className="text-center"
-                        //   style="border-bottom: solid 1px #DDDDDD"
-                        rowSpan="1"
-                        colSpan="3"
-                      >
-                        Teaching Scheme{" "}
-                      </th>
-                      <th
-                        rowSpan="1"
-                        className="text-center"
-                        //   style="border-bottom: solid 1px #DDDDDD"
-                        colSpan="3"
-                      >
-                        Marks{" "}
-                      </th>
-                    </tr>
-                    <tr>
-                      <th className="text-center">
-                        {" "}
-                        <span>L</span>{" "}
-                      </th>
-                      <th className="text-center">
-                        {" "}
-                        <span>P</span>{" "}
-                      </th>
-                      <th className="text-center">
-                        {" "}
-                        <span>T</span>{" "}
-                      </th>
-                      <th className="text-center">
-                        {" "}
-                        <span>Theory</span>{" "}
-                      </th>
-                      <th className="text-center">
-                        {" "}
-                        <span>Practical</span>{" "}
-                      </th>
-                      <th className="text-center">
-                        {" "}
-                        <span>Total</span>{" "}
-                      </th>
                     </tr>
                   </thead>
                   <tbody>
@@ -124,13 +78,6 @@ function Sem1_2() {
                           Chemistry
                         </a>{" "}
                       </td>
-                      <td className="text-center"> 4 </td>
-                      <td className="text-center"> 3 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 50 </td>
-                      <td className="text-center"> 150 </td>
                     </tr>
                     <tr>
                       <td>
@@ -153,17 +100,8 @@ function Sem1_2() {
                       </td>
                       <td>
                         {" "}
-                        <a title="302 - CS - GTU" href="syllabus/sem_9/302.pdf">
-                          English
-                        </a>{" "}
+                        <Link to="/sem1_2_english">English</Link>{" "}
                       </td>
-                      <td className="text-center"> 3 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 50 </td>
-                      <td className="text-center"> 150 </td>
                     </tr>
                     <tr>
                       <td>
@@ -186,20 +124,10 @@ function Sem1_2() {
                       </td>
                       <td>
                         {" "}
-                        <a
-                          title="303 - CPU - GTU"
-                          href="syllabus/sem_9/303.pdf"
-                        >
+                        <Link to="/sem1_2_pps">
                           Programming for Problem Solving
-                        </a>{" "}
+                        </Link>{" "}
                       </td>
-                      <td className="text-center"> 4 </td>
-                      <td className="text-center"> 3 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 50 </td>
-                      <td className="text-center"> 150 </td>
                     </tr>
                     <tr>
                       <td>
@@ -222,20 +150,10 @@ function Sem1_2() {
                       </td>
                       <td>
                         {" "}
-                        <a
-                          title="304 - ECE - GTU"
-                          href="syllabus/sem_9/304.pdf"
-                        >
+                        <Link to="/sem1_2_bee">
                           Basic Electrical Engineering
-                        </a>{" "}
+                        </Link>{" "}
                       </td>
-                      <td className="text-center"> 4 </td>
-                      <td className="text-center"> 4 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 50 </td>
-                      <td className="text-center"> 150 </td>
                     </tr>
                     <tr>
                       <td>
@@ -250,7 +168,7 @@ function Sem1_2() {
                       <td>
                         {" "}
                         <a
-                          title="305 - Elements of Electrical Engineering - GTU"
+                          title="305 - EEE - GTU"
                           href="syllabus/sem_9/305.pdf"
                         >
                           BME
@@ -258,20 +176,10 @@ function Sem1_2() {
                       </td>
                       <td>
                         {" "}
-                        <a
-                          title="305 - EEE - GTU"
-                          href="syllabus/sem_9/305.pdf"
-                        >
+                        <Link to="sem1_2_bme">
                           Basic Mechanical Engineering
-                        </a>{" "}
+                        </Link>{" "}
                       </td>
-                      <td className="text-center"> 4 </td>
-                      <td className="text-center"> 4 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 50 </td>
-                      <td className="text-center"> 150 </td>
                     </tr>
                     <tr>
                       <td>
@@ -294,20 +202,8 @@ function Sem1_2() {
                       </td>
                       <td>
                         {" "}
-                        <a
-                          title="306 - EME - GTU"
-                          href="syllabus/sem_9/306.pdf"
-                        >
-                          Environmental Science
-                        </a>{" "}
+                        <Link to="/sem1_2_es">Environmental Science</Link>{" "}
                       </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
                     </tr>
                     <tr>
                       <td>
@@ -334,13 +230,6 @@ function Sem1_2() {
                           Workshop/ Manufacturing Practices
                         </a>{" "}
                       </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 4 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 100 </td>
                     </tr>
                     <tr>
                       <td>
@@ -363,20 +252,10 @@ function Sem1_2() {
                       </td>
                       <td>
                         {" "}
-                        <a
-                          title="311 - PHYSICS - GTU"
-                          href="syllabus/sem_9/311.pdf"
-                        >
+                        <Link to="/sem1_2_egd">
                           Engineering Graphics & Design
-                        </a>{" "}
+                        </Link>{" "}
                       </td>
-                      <td className="text-center"> 4 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 4 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 50 </td>
-                      <td className="text-center"> 150 </td>
                     </tr>
                     <tr>
                       <td>
@@ -399,17 +278,8 @@ function Sem1_2() {
                       </td>
                       <td>
                         {" "}
-                        <a title="312 - WS - GTU" href="syllabus/sem_9/312.pdf">
-                          Mathematics - 1
-                        </a>{" "}
+                        <Link to="/sem1_2_math1">Mathematics - 1</Link>{" "}
                       </td>
-                      <td className="text-center"> 5 </td>
-                      <td className="text-center"> 3 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
                     </tr>
                     <tr>
                       <td>
@@ -432,17 +302,8 @@ function Sem1_2() {
                       </td>
                       <td>
                         {" "}
-                        <a title="313 - EG - GTU" href="syllabus/sem_9/313.pdf">
-                          Mathematics - 2
-                        </a>{" "}
+                        <Link to="sem1_2_math2">Mathematics - 2</Link>{" "}
                       </td>
-                      <td className="text-center"> 5 </td>
-                      <td className="text-center"> 3 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
                     </tr>
                     <tr>
                       <td>
@@ -466,13 +327,6 @@ function Sem1_2() {
                       <td>
                         <Link to="/sem1_2_BE">Basic Electronics</Link>
                       </td>
-                      <td className="text-center"> 4 </td>
-                      <td className="text-center"> 3 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 50 </td>
-                      <td className="text-center"> 150 </td>
                     </tr>
                     <tr>
                       <td>
@@ -503,13 +357,6 @@ function Sem1_2() {
                           Induction Program
                         </a>{" "}
                       </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 0 </td>
                     </tr>
                     <tr>
                       <td>
@@ -532,18 +379,8 @@ function Sem1_2() {
                       </td>
                       <td>
                         {" "}
-                        <a title="316 - BE - GTU" href="syllabus/sem_9/316.pdf">
-                          {" "}
-                          Physicss
-                        </a>{" "}
+                        <Link to="/sem1_2_phy"> Physicss</Link>{" "}
                       </td>
-                      <td className="text-center"> 4 </td>
-                      <td className="text-center"> 3 </td>
-                      <td className="text-center"> 2 </td>
-                      <td className="text-center"> 0 </td>
-                      <td className="text-center"> 100 </td>
-                      <td className="text-center"> 50 </td>
-                      <td className="text-center"> 150 </td>
                     </tr>
                   </tbody>
                 </table>
