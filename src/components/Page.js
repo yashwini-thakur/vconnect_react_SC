@@ -68,10 +68,10 @@ function Page() {
                 </p>
                 <div class="buttons">
                   <Link class="btn btn-primary" to="/Login">
-                    Sign Up
+                    About
                   </Link>
-                  <Link to="/login" class="btn btn">
-                    Log In
+                  <Link to="/cards" class="btn btn">
+                    Details
                   </Link>
                 </div>
               </div>

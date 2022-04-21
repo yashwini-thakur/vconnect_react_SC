@@ -490,15 +490,16 @@ img {
 /* Following is the css for semester table */
 .sem_body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: rgb(18, 18, 19);
+  background-color: rgb(49, 49, 49);
   box-sizing: border-box;
+  /* margin-bottom: 500px; */
 }
 
 /* Float four columns side by side */
 .column_for_sem {
   float: left;
-  width: 25%;
-  padding: 0 4px 4px;
+  width: 50%;
+  padding: 0 40px 40px;
   box-sizing: border-box;
 }
 
@@ -528,14 +529,14 @@ img {
 
 /* Style the counter cards */
 .card_for_sem {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px 0 rgba(24, 23, 23, 0.2);
   padding: 16px;
   text-align: center;
   background-color: #f1f1f1;
   box-sizing: border-box;
 }
 .card_for_sem:hover {
-  background-color: rgb(75, 166, 246);
+  background-color: rgb(145, 192, 234);
   cursor: pointer;
 }
 

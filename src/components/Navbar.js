@@ -1,5 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <>
@@ -12,20 +13,20 @@ function Navbar() {
         </h1>
         <ul>
           <li>
-            <a href="home.html">
+            <Link to="/">
               <i class="fa-solid fa-house"></i> Home
-            </a>
+            </Link>
           </li>
           <li>
             <a href="settings.html">
-              <i class="fa-solid fa-gear"></i> Settings
+              <i class="fa-solid fa-gear"></i> Contact
             </a>
           </li>
           <li>
-            <a>
+            <Link to="/cards">
               {" "}
-              <i class="fa-solid fa-circle-half-stroke"></i> Theme{" "}
-            </a>
+              <i class="fa-solid fa-circle-half-stroke"></i> Branches
+            </Link>
           </li>
         </ul>
       </nav>

@@ -61,7 +61,7 @@ function Login() {
         </head>
         <body>
           <section class="container">
-            <div class="alert alert-danger">Invalid Credentials</div>
+            <div class="alert alert-danger">Enter Valid Credentials</div>
             <h1 class="large text-primary">Sign In</h1>
             <p class="lead">
               <i class="fa-solid fa-user"></i> Sign into your Account
