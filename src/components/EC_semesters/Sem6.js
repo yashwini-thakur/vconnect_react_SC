@@ -1,5 +1,6 @@
 import React from "react";
-function Sem7() {
+import { Link } from "react-router-dom";
+function Sem6() {
   return (
     <>
       <table table_sem1_2 border="5px">
@@ -9,7 +10,7 @@ function Sem7() {
               <div class="panel-title">
                 <h2>
                   <b>
-                    <i class="fa fa-book font-green-sharp"></i>Semester : 7
+                    <i class="fa fa-book font-green-sharp"></i>Semester : 6
                   </b>
                 </h2>{" "}
               </div>
@@ -52,28 +53,28 @@ function Sem7() {
                     <td>
                       {" "}
                       <a
-                        title="IntInternship -Internship - GTU"
-                        href="syllabus/sem_7/3170001_15.pdf"
+                        title="DE-II - Design Engineering - II B - GTU"
+                        href="syllabus/sem_6/DE-2B_6th_sem-Course_Abstract.pdf"
                       >
-                        3170001
+                        3160001
                       </a>{" "}
                     </td>
                     <td>
                       {" "}
                       <a
-                        title="3170001 -Internship - GTU"
-                        href="syllabus/sem_7/3170001_15.pdf"
+                        title="3160001 - Design Engineering - II B - GTU"
+                        href="syllabus/sem_6/DE-2B_6th_sem-Course_Abstract.pdf"
                       >
-                        Internship
+                        DE-II
                       </a>{" "}
                     </td>
                     <td>
                       {" "}
                       <a
-                        title="3170001 -Internship - GTU"
-                        href="syllabus/sem_7/3170001_15.pdf"
+                        title="3160001 - DE-II - GTU"
+                        href="syllabus/sem_6/DE-2B_6th_sem-Course_Abstract.pdf"
                       >
-                        Summer Internship
+                        Design Engineering - II B
                       </a>{" "}
                     </td>
                   </tr>
@@ -81,28 +82,28 @@ function Sem7() {
                     <td>
                       {" "}
                       <a
-                        title="MTT - Microwave Theory & Techniques - GTU"
-                        href="syllabus/sem_8/3171001.pdf"
+                        title="CPD - Contributer Personality Development - GTU"
+                        href="syllabus/sem_5/3150004.pdf"
                       >
-                        3171001
+                        3160002
                       </a>{" "}
                     </td>
                     <td>
                       {" "}
                       <a
-                        title="3171001 - Microwave Theory & Techniques - GTU"
-                        href="syllabus/sem_8/3171001.pdf"
+                        title="3150004 - Contributer Personality Development - GTU"
+                        href="syllabus/sem_5/3150004.pdf"
                       >
-                        MTT
+                        CPD
                       </a>{" "}
                     </td>
                     <td>
                       {" "}
                       <a
-                        title="3171001 - MTT - GTU"
-                        href="syllabus/sem_8/3171001.pdf"
+                        title="3150004 - CPD - GTU"
+                        href="syllabus/sem_5/3150004.pdf"
                       >
-                        Microwave Theory & Techniques
+                        Contributer Personality Development
                       </a>{" "}
                     </td>
                   </tr>
@@ -110,25 +111,130 @@ function Sem7() {
                     <td>
                       {" "}
                       <a
-                        title="DSP - Digital Signal Processing - GTU"
-                        href="dsp.pdf"
+                        title="IPDC - Intigrated Personality Development Course - GTU"
+                        href="syllabus/sem_5/3150005.pdf"
                       >
-                        3171003
+                        3160003
                       </a>{" "}
                     </td>
                     <td>
                       {" "}
                       <a
-                        title="3171003 - Digital Signal Processing - GTU"
-                        href="dsp.pdf"
+                        title="3150005 - Intigrated Personality Development Course - GTU"
+                        href="syllabus/sem_5/3150005.pdf"
                       >
-                        DSP
+                        IPDC
                       </a>{" "}
                     </td>
                     <td>
                       {" "}
-                      <a title="3171003 - DSP - GTU" href="dsp.pdf">
-                        Digital Signal Processing
+                      <a
+                        title="3150005 - IPDC - GTU"
+                        href="syllabus/sem_5/3150005.pdf"
+                      >
+                        Intigrated Personality Development Course
+                      </a>{" "}
+                    </td>
+                  </tr>
+
+                  <tr>
+                    <td>
+                      {" "}
+                      <a
+                        title="AP - Antenna and  Propagation - GTU"
+                        href="syllabus/sem_6/3161003.pdf"
+                      >
+                        3161003
+                      </a>{" "}
+                    </td>
+                    <td>
+                      {" "}
+                      <a
+                        title="3161003 - Antenna and Propagation - GTU"
+                        href="syllabus/sem_6/3161003.pdf"
+                      >
+                        AP
+                      </a>{" "}
+                    </td>
+                    <td>
+                      {" "}
+                      <Link to="/sem6_ap">Antenna and Propagation</Link>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      {" "}
+                      <a
+                        title="FOC - Fiber Optic Communication  - GTU"
+                        href="syllabus/sem_6/3161005.pdf"
+                      >
+                        3161005
+                      </a>{" "}
+                    </td>
+                    <td>
+                      {" "}
+                      <a
+                        title="3161005 - Fiber Optic Communication  - GTU"
+                        href="syllabus/sem_6/3161005.pdf"
+                      >
+                        FOC
+                      </a>{" "}
+                    </td>
+                    <td>
+                      {" "}
+                      <Link to="/sem6_foc"> Fiber Optic Communication </Link>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      {" "}
+                      <a
+                        title="CN - Computer Networks  - GTU"
+                        href="syllabus/sem_6/3161007.pdf"
+                      >
+                        3161007
+                      </a>{" "}
+                    </td>
+                    <td>
+                      {" "}
+                      <a
+                        title="3161007 - Computer Networks  - GTU"
+                        href="syllabus/sem_6/3161007.pdf"
+                      >
+                        CN
+                      </a>{" "}
+                    </td>
+                    <td>
+                      {" "}
+                      <Link to="/sem6_cn">Computer Networks </Link>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      {" "}
+                      <a
+                        title="ES - Embedded System - GTU"
+                        href="syllabus/sem_6/3161009.pdf"
+                      >
+                        3161009
+                      </a>{" "}
+                    </td>
+                    <td>
+                      {" "}
+                      <a
+                        title="3161009 - Embedded System - GTU"
+                        href="syllabus/sem_6/3161009.pdf"
+                      >
+                        ES
+                      </a>{" "}
+                    </td>
+                    <td>
+                      {" "}
+                      <a
+                        title="3161009 - ES - GTU"
+                        href="syllabus/sem_6/3161009.pdf"
+                      >
+                        Embedded System
                       </a>{" "}
                     </td>
                   </tr>
@@ -136,145 +242,50 @@ function Sem7() {
                     <td>
                       {" "}
                       <a
-                        title="WC - Wireless Communication - GTU"
-                        href="syllabus/sem_7/3171004.pdf"
+                        title="SC- Satellite Communication  - GTU"
+                        href="syllabus/sem_6/3161010.pdf"
                       >
-                        3171004
+                        3161010
                       </a>{" "}
                     </td>
                     <td>
                       {" "}
                       <a
-                        title="3171004 - Wireless Communication - GTU"
-                        href="syllabus/sem_7/3171004.pdf"
+                        title="3161010 - Satellite Communication  - GTU"
+                        href="syllabus/sem_6/3161010.pdf"
                       >
-                        WC
+                        SATCOM
                       </a>{" "}
                     </td>
                     <td>
                       {" "}
-                      <a
-                        title="3171004 - WC - GTU"
-                        href="syllabus/sem_7/3171004.pdf"
-                      >
-                        Wireless Communication
-                      </a>{" "}
+                      <Link to="/sem6_satcom">
+                        Satellite Communication{" "}
+                      </Link>{" "}
                     </td>
                   </tr>
                   <tr>
                     <td>
                       {" "}
                       <a
-                        title="IOT - Internet Of Things  - GTU"
-                        href="syllabus/sem_7/3171108.pdf"
+                        title="WT - Web Technology  - GTU"
+                        href="syllabus/sem_6/3161012.pdf"
                       >
-                        3171108
+                        3161012
                       </a>{" "}
                     </td>
                     <td>
                       {" "}
                       <a
-                        title="3171108 - Internet Of Things  - GTU"
-                        href="syllabus/sem_7/3171108.pdf"
+                        title="3161012 - Web Technology  - GTU"
+                        href="syllabus/sem_6/3161012.pdf"
                       >
-                        IOT
+                        WT
                       </a>{" "}
                     </td>
                     <td>
                       {" "}
-                      <a
-                        title="3171108 - IOT - GTU"
-                        href="syllabus/sem_7/3171108.pdf"
-                      >
-                        Internet Of Things{" "}
-                      </a>{" "}
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      {" "}
-                      <a
-                        title="DIVP- Digital Image & Video Proce - GTU"
-                        href="syllabus/sem_7/3171109.pdf"
-                      >
-                        3171109
-                      </a>{" "}
-                    </td>
-                    <td>
-                      {" "}
-                      <a
-                        title="3171109 - Digital Image & Video Proce - GTU"
-                        href="syllabus/sem_7/3171109.pdf"
-                      >
-                        DIVP
-                      </a>{" "}
-                    </td>
-                    <td>
-                      {" "}
-                      <a
-                        title="3171109 - DIVP - GTU"
-                        href="syllabus/sem_7/3171109.pdf"
-                      >
-                        Digital Image & Video Proce
-                      </a>{" "}
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      {" "}
-                      <a
-                        title="RNA - Radar & Navigation Aids - GTU"
-                        href="syllabus/sem_7/3171110.pdf"
-                      >
-                        3171110
-                      </a>{" "}
-                    </td>
-                    <td>
-                      {" "}
-                      <a
-                        title="3171110 - Radar & Navigation Aids - GTU"
-                        href="syllabus/sem_7/3171110.pdf"
-                      >
-                        RNA
-                      </a>{" "}
-                    </td>
-                    <td>
-                      {" "}
-                      <a
-                        title="3171110 - RNA - GTU"
-                        href="syllabus/sem_7/3171110.pdf"
-                      >
-                        Radar & Navigation Aids
-                      </a>{" "}
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      {" "}
-                      <a
-                        title="AE - Automotive Electronics - GTU"
-                        href="syllabus/sem_7/3171112.pdf"
-                      >
-                        3171112
-                      </a>{" "}
-                    </td>
-                    <td>
-                      {" "}
-                      <a
-                        title="3171112 - Automotive Electronics - GTU"
-                        href="syllabus/sem_7/3171112.pdf"
-                      >
-                        AE
-                      </a>{" "}
-                    </td>
-                    <td>
-                      {" "}
-                      <a
-                        title="3171112 - AE - GTU"
-                        href="syllabus/sem_7/3171112.pdf"
-                      >
-                        Automotive Electronics
-                      </a>{" "}
+                      <Link to="/sem6_wt">Web Technology </Link>
                     </td>
                   </tr>
                 </tbody>
@@ -286,4 +297,4 @@ function Sem7() {
     </>
   );
 }
-export default Sem7;
+export default Sem6;

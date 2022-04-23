@@ -1,7 +1,5 @@
-// import "./Page_style.css";
 import React from "react";
 import { Link } from "react-router-dom";
-//import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function Page() {
   return (
     <>
@@ -32,32 +30,6 @@ function Page() {
           <title>VConnect</title>
         </head>
         <body>
-          {/* <nav class="navbar bg-dark">
-            <h1>
-              <a href="dashboard.html">
-                <FontAwesomeIcon icon="fa-solid fa-globe" />
-                VConnect
-              </a>
-            </h1>
-            <ul>
-              <li>
-                <a href="home.html">
-                  <i class="fa-solid fa-house"></i> Home
-                </a>
-              </li>
-              <li>
-                <a href="settings.html">
-                  <i class="fa-solid fa-gear"></i> Settings
-                </a>
-              </li>
-              <li>
-                <a>
-                  {" "}
-                  <i class="fa-solid fa-circle-half-stroke"></i> Theme{" "}
-                </a>
-              </li>
-            </ul>
-          </nav> */}
           <section class="landing">
             <div class="dark-overlay">
               <div class="landing-inner">
