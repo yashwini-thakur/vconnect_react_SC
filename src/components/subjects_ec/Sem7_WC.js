@@ -28,7 +28,9 @@ function Sem7_WC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/106J0dpP74o64LjgGAKV-hTXCUYdBIZ5s/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -44,7 +46,9 @@ function Sem7_WC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1mndvcS-OxM-BPd36bxR6N4SRyhyhlQhE/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -61,7 +65,9 @@ function Sem7_WC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1NQLkck5ItuxLcA0Ot0Z6Nsr0GxFajk7y/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -76,7 +82,9 @@ function Sem7_WC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1wf4ORzHsCTZL_igPMPZK0-pzXCZGf5JK/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -90,7 +98,9 @@ function Sem7_WC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1kRIddtLodrIinsyt9UbZYaxUVZ0R0jDe/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -104,7 +114,9 @@ function Sem7_WC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1579U-qg97fSsGYhc5mG35c_WHUTczAyO/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

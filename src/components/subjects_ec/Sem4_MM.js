@@ -10,7 +10,7 @@ function Sem4_MM() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:4 <br />
               Microprosseser & Microcontroller
             </i>
           </b>

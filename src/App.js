@@ -70,7 +70,7 @@ import Sem7_IOT from "./components/subjects_ec/Sem7_IOT";
 import Sem7_MTT from "./components/subjects_ec/Sem7_MTT";
 import Sem7_WC from "./components/subjects_ec/Sem7_WC";
 //importing physics chapter
-import Superconductivity from "./components/pdfs/Superconductivity";
+//import Superconductivity from "./components/pdfs/Superconductivity";
 //import Dashboard from "./components/Dashboard";
 // import Login from "./components/Login";
 
@@ -148,7 +148,7 @@ function App() {
         <Route path="/sem7_mtt" component={Sem7_MTT} />
         <Route psth="/sem7_wc" component={Sem7_WC} />
 
-        <Route path="/superconductivity" component={Superconductivity} />
+        {/* <Route path="/superconductivity" component={Superconductivity} /> */}
       </Switch>
       <Footer />
     </BrowserRouter>

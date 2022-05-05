@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Superconductivity from "../pdfs/Superconductivity";
 function Sem3() {
   return (
     <>

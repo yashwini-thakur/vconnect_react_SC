@@ -10,7 +10,7 @@ function Sem4_PE() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:4 <br />
               Proffesional Ethics
             </i>
           </b>
@@ -26,7 +26,9 @@ function Sem4_PE() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1EFtRkCAC7Pxgs72GsdCKQEINnyxnFkRI/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem4_PE() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1YRVYUWQ7KS2VqK9l5kmf0NYeWj9bn5Jc/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -56,7 +60,9 @@ function Sem4_PE() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1EFtRkCAC7Pxgs72GsdCKQEINnyxnFkRI/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -71,7 +77,9 @@ function Sem4_PE() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/10CmaKqgrbM5-fa97dZO5MxOhHikZLSvr/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -85,7 +93,9 @@ function Sem4_PE() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/10CmaKqgrbM5-fa97dZO5MxOhHikZLSvr/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -99,7 +109,9 @@ function Sem4_PE() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/10CmaKqgrbM5-fa97dZO5MxOhHikZLSvr/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

@@ -10,7 +10,7 @@ function Sem1_2_BE() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:2 <br />
               Basic Electronics
             </i>
           </b>
@@ -26,7 +26,9 @@ function Sem1_2_BE() {
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1V_FOi_MMtjOzRCXEdFpWw6wPOPji4QJb/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -42,7 +44,9 @@ function Sem1_2_BE() {
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1-MQGtvXtBHTf43--EgOzor4Afiky_V4F/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -58,7 +62,9 @@ function Sem1_2_BE() {
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1DbFG5vGpWtzSuEPNPYrp5VtWKo3wGkhr/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -75,7 +81,9 @@ function Sem1_2_BE() {
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1Osk8jqtdyCYUCcUF1GTay029JZ0PDf4j/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -91,7 +99,9 @@ function Sem1_2_BE() {
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1e2mDTyut4B6rqGUm7-IwEVHMTwjPIsDj/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -105,7 +115,9 @@ function Sem1_2_BE() {
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1-kWMe73RjT48JYCOnbxXyMsVR5gzgfl-/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

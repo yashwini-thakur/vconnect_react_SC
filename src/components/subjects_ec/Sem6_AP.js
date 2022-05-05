@@ -10,8 +10,8 @@ function Sem6_AP() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
-              Antenas & Prapogation
+              <br /> Sem:6 <br />
+              Antenna & Wave Propagation
             </i>
           </b>
         </h2>

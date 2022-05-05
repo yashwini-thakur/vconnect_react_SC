@@ -10,7 +10,7 @@ function Sem1_2_PPS() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:2 <br />
               Programs for Problem Solving
             </i>
           </b>
@@ -26,7 +26,9 @@ function Sem1_2_PPS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1tU1Mp8Z3mH6m1xxqL1G5lmrKzFMBpTAN/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem1_2_PPS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/107AnWX-R5CnGWeLTOFv5l5kV5nMPYGGO/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem1_2_PPS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1EYggsHPdMoNknt3Ld5lJO-nwRRC0mPao/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -69,7 +75,9 @@ function Sem1_2_PPS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1xhbV47uBI6wgNP0wssAN0KTTkTztFk91/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -83,7 +91,9 @@ function Sem1_2_PPS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1MPOMnclRl9L2QVt-1dyDJg0jkkQhg-1I/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -97,7 +107,9 @@ function Sem1_2_PPS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1MfqUAW_aOHPgKT1EHRi5XATasrYG4umj/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -111,21 +123,9 @@ function Sem1_2_PPS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
-              </div>
-            </div>
-          </div>
-          <div class="card_sub">
-            <div class="face_sub face1_sub">
-              <div class="content_sub">
-                <h3 class="h3_sub">CH-6</h3>
-                <h3 class="h3_sub">Recursion</h3>
-              </div>
-            </div>
-            <div class="face_sub face2_sub">
-              <div class="content_sub">
-                <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/17KU5FvhaU137FJdRN2gAkVRQVeW6nLkn/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -139,7 +139,9 @@ function Sem1_2_PPS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1HPl92bUSdy02V_BSA9ifCConyzgZ0omP/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -153,7 +155,9 @@ function Sem1_2_PPS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1-1ldiZYTb_MjSgvcBN6Le2Dtdvyeip8G/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -167,7 +171,9 @@ function Sem1_2_PPS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1KZ6HNT0L6Q-K6H_OfH_jppjESShHO8fx/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

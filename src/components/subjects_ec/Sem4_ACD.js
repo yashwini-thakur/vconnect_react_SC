@@ -10,7 +10,7 @@ function Sem4_ACD() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:4 <br />
               Analog Circuit Design
             </i>
           </b>
@@ -26,7 +26,9 @@ function Sem4_ACD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1QwSL9pv8CnR1ue2dnlL5ND9kbCvjmnFV/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem4_ACD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1bgDNdZsz3U2K0k-LPpYld7ZTCc7KHdnC/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem4_ACD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1aU5tYtDUZFKfjT29nTgnfV07hE4tHCde/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -69,7 +75,9 @@ function Sem4_ACD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1zWIXkiEXeTlauEHTvmK7DqikAFLkQoBN/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -83,7 +91,9 @@ function Sem4_ACD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1Fr3UJF63QK6rUYcAvaVyZn2EdHxgyMaC/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -97,7 +107,9 @@ function Sem4_ACD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1MzV4pA7Ybq6punR7tWpUnwHRBSJkWTz7/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -111,7 +123,9 @@ function Sem4_ACD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1A-P2NWcc0e3TU9tLyg7qbkUM0ocEhf2S/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

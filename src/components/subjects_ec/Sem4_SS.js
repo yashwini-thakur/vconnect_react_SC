@@ -10,7 +10,7 @@ function Sem4_SS() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:4 <br />
               Signal & System
             </i>
           </b>
@@ -26,7 +26,9 @@ function Sem4_SS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1Flm581205j7KwtcbKlDZyIJiUcSogjhF/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -43,7 +45,9 @@ function Sem4_SS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1o9rjdvUBm6wsmErDVSB5pE1LKuDbbGz3/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -59,7 +63,9 @@ function Sem4_SS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1Mi3P3okM-uyBlxqTus5sEtHDJ18NJBkf/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -68,13 +74,15 @@ function Sem4_SS() {
             <div class="face_sub face1_sub">
               <div class="content_sub">
                 <h3 class="h3_sub">Ch: 4</h3>
-                <h3 class="h3_sub">Z Transform</h3>
+                <h3 class="h3_sub">DTFT</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1iEn6nC6NIpSzzAceVh-NkU1VMk8esrzk/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -88,7 +96,9 @@ function Sem4_SS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1o9rjdvUBm6wsmErDVSB5pE1LKuDbbGz3/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

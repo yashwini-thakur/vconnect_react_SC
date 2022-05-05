@@ -10,7 +10,7 @@ function Sem3_PS() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:3 <br />
               Probability And Statistics
             </i>
           </b>

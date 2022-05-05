@@ -9,6 +9,7 @@ export default function AllPages(props) {
   }
 
   const { pdf } = props;
+  console.log();
 
   return (
     <Document

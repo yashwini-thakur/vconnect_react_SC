@@ -10,7 +10,7 @@ function Sem3_DSD() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:3 <br />
               Digital System Design
             </i>
           </b>
@@ -26,7 +26,9 @@ function Sem3_DSD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1YWs-byDNsg4WKOyGt54xUJLg-miZ5w09/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem3_DSD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1moLVkEYPXxrvZNKIqbySJFZmBCl4JkA4/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem3_DSD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1x5xhELB6YulQ1Yy-RFFjTXcLKRkOg5Fy/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -70,7 +76,9 @@ function Sem3_DSD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1VwV0HzIvDENsioJwA64imxPx301ko8Qd/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -84,7 +92,9 @@ function Sem3_DSD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1R1OwA0XGm5xvRaH6_k21MrUxrLOSfFrC/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -98,7 +108,9 @@ function Sem3_DSD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1x-n1PhKdxk3zNX-7themIJ0T1TFpNGsU/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -112,7 +124,9 @@ function Sem3_DSD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/18HHoDAs67N1XaXlt1Us3IVdx4JA-XnzG/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>{" "}
@@ -120,13 +134,15 @@ function Sem3_DSD() {
             <div class="face_sub face1_sub">
               <div class="content_sub">
                 <h3 class="h3_sub">Ch: 8</h3>
-                <h3 class="h3_sub">LVLSI Design flow</h3>
+                <h3 class="h3_sub">VLSI Design flow</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/19_-0GrzaALEnFf53yEFrYAt3EUyU3CE3/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>{" "}
@@ -140,7 +156,9 @@ function Sem3_DSD() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1UtwvHxEqcyWV1G1EtbSykSduevmf8B0I/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

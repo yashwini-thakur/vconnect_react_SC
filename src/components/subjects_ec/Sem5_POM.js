@@ -10,8 +10,8 @@ function Sem5_POM() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
-              Principles Of MAnagement
+              <br /> Sem:5 <br />
+              Principles Of Management
             </i>
           </b>
         </h2>
@@ -26,7 +26,9 @@ function Sem5_POM() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1nQcY-5gUS56ALzL3UoFqstuuXI_mY-88/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem5_POM() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1ORy-qKrufwypJo-5pPT4L8QYBwldPc2b/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem5_POM() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1Cf9AtMCE1sMN_gJmsigCTU9v0Ad-O-CW/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -69,7 +75,9 @@ function Sem5_POM() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/18ku3MYqPEge7rviCw2_8DN_rXkLTx829/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -83,7 +91,9 @@ function Sem5_POM() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1976bTslONhyOsx33SloXGkGm5GT7wgzH/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -97,7 +107,9 @@ function Sem5_POM() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1oHo1gWzw9FsSF-J0fJcraGDCkTCvdXUH/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -111,7 +123,9 @@ function Sem5_POM() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1oHo1gWzw9FsSF-J0fJcraGDCkTCvdXUH/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

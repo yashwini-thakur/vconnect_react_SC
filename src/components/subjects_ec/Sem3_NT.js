@@ -10,7 +10,7 @@ function Sem3_NT() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:3 <br />
               Network Theory
             </i>
           </b>
@@ -28,7 +28,9 @@ function Sem3_NT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1YC0DsDTy9dEeWdqdg8pbbHkMebm1ILeR/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -44,7 +46,9 @@ function Sem3_NT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1JoqYscY_irHq3xvfN-YMDedMMlXmxVDe/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -60,7 +64,9 @@ function Sem3_NT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1GOb6OSkOM3-U-FUXjugEIUdUatQ1PaUL/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -77,7 +83,9 @@ function Sem3_NT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1_PjiQcdOIhtmZJDb5YSBrC5DdyF-IAu8/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -93,7 +101,9 @@ function Sem3_NT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1_PjiQcdOIhtmZJDb5YSBrC5DdyF-IAu8/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -107,7 +117,9 @@ function Sem3_NT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1JxSuuDkONhp_wxlJpd6cHf4NFcCVDcAG/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -123,7 +135,9 @@ function Sem3_NT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1lDIaMDGcQy1mVE4WlqmGTkAbtnQP6jTk/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -139,7 +153,9 @@ function Sem3_NT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1lDIaMDGcQy1mVE4WlqmGTkAbtnQP6jTk/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -153,7 +169,9 @@ function Sem3_NT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1NWgNm3QOsHJ4S116PtwZ2xN5HhdxpIxB/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -167,7 +185,9 @@ function Sem3_NT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1AiqAL-3cpPysTI4Z2tMzcSzbdJIuQgWm/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -183,7 +203,9 @@ function Sem3_NT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1u0TxbxDKp5kCAxWk6jayZvh17qwn7pet/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

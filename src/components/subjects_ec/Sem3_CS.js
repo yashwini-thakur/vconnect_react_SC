@@ -10,7 +10,7 @@ function Sem3_CS() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:3 <br />
               Control System
             </i>
           </b>
@@ -26,7 +26,9 @@ function Sem3_CS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1a1kaohaHRV0WBdMUIp6lfsUTU9_cauYX/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem3_CS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1_1rhTjAGF_dfdekTq0SsFekFORl13ltm/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem3_CS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1SwswQjVx6WfMsFFg7--xQAhLcckJnoAI/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -70,7 +76,9 @@ function Sem3_CS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1SwswQjVx6WfMsFFg7--xQAhLcckJnoAI/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -84,7 +92,9 @@ function Sem3_CS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1S0OchL57v6SekPeWZzVRdO5TMtsFZNt3/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -92,13 +102,15 @@ function Sem3_CS() {
             <div class="face_sub face1_sub">
               <div class="content_sub">
                 <h3 class="h3_sub">Ch: 6</h3>
-                <h3 class="h3_sub"></h3>
+                <h3 class="h3_sub">Time Domain Analysis</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1XpF5u36BR6l01EibjxeTSqCH7xVM8alC/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -112,7 +124,9 @@ function Sem3_CS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1YUeyOQqn2t0GbAGWKkbdhprnC_fxaKqZ/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>{" "}
@@ -126,7 +140,9 @@ function Sem3_CS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1CIin0VUJgt51068T2xUklSdUOR_BkLjS/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>{" "}
@@ -140,7 +156,9 @@ function Sem3_CS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1YUeyOQqn2t0GbAGWKkbdhprnC_fxaKqZ/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>{" "}
@@ -154,7 +172,9 @@ function Sem3_CS() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1wbID4PCbcHseVIN8hqYfyTGuJeCEVwdl/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

@@ -26,7 +26,9 @@ function Sem7_IOT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://docs.google.com/presentation/d/1l7tgXGR3DIFf881g2Vl094I_PLXRbaDR/edit?usp=sharing&ouid=103130785551991976565&rtpof=true&sd=true">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem7_IOT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://docs.google.com/presentation/d/1wMU32DdG3tJWLMmBeCWsRPr6MmV9Ail-/edit?usp=sharing&ouid=103130785551991976565&rtpof=true&sd=true">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem7_IOT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://docs.google.com/presentation/d/1zwf78zvqEhibFeE8wcKKcM3UgDXAqIKh/edit?usp=sharing&ouid=103130785551991976565&rtpof=true&sd=true">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -69,7 +75,9 @@ function Sem7_IOT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://docs.google.com/presentation/d/1gxoA0qU3_wrq7cSz3zsfykmlclcZWmUy/edit?usp=sharing&ouid=103130785551991976565&rtpof=true&sd=true">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -83,7 +91,9 @@ function Sem7_IOT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/14YTs_4HptgWurAsaHPT4weizeh5o0H-1/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

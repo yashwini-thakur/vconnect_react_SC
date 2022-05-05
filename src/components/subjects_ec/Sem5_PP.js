@@ -10,8 +10,8 @@ function Sem5_PP() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
-              Maths-II
+              <br /> Sem:5 <br />
+              Python Programming
             </i>
           </b>
         </h2>
@@ -26,7 +26,9 @@ function Sem5_PP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1RJI_bS6EF2T_izxRnQavH0uF00rFG6sd/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem5_PP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/16kQteBc8o98ZxFVTq-ALB1y9oZxSHDed/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem5_PP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/19yYXiuUtsMvIlR1zB5TrEyTqLabVBWS8/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -69,7 +75,9 @@ function Sem5_PP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1RiVV7fX7LYSfJxlEXG4aJSwaccijhfxt/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -83,7 +91,9 @@ function Sem5_PP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1xXWo0FrjcSsXf09Xsi9dexGNbQgUKeNN/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

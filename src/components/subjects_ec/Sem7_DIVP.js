@@ -26,7 +26,9 @@ function Sem7_DIVP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1kYpOFac5y5aYcT3JsYuWsY7lbln4qEVn/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem7_DIVP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1m69Bpc7IZja_wTLqEoUU19XVkVRTGvMx/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem7_DIVP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1D7ZtXjbRhjmksiG4Entw2PH2MLXjJOL0/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -69,7 +75,9 @@ function Sem7_DIVP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1e4jiHk-6jA6E9O-DCehkUvSQKa6RdeFq/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -85,7 +93,9 @@ function Sem7_DIVP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1Ym60NndmsLyUEHuvfdZ8_ayTzNT_4Ogn/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -99,7 +109,9 @@ function Sem7_DIVP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1N8Rv6AX0OxIult3ryHEokwR3dQ5fmJFv/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -113,21 +125,9 @@ function Sem7_DIVP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
-              </div>
-            </div>
-          </div>
-          <div class="card_sub">
-            <div class="face_sub face1_sub">
-              <div class="content_sub">
-                <h3 class="h3_sub">Ch: 8</h3>
-                <h3 class="h3_sub">Video Segmentation</h3>
-              </div>
-            </div>
-            <div class="face_sub face2_sub">
-              <div class="content_sub">
-                <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://docs.google.com/document/d/12SZH2ZTpPioL8CFTaPB9vx64IQlwLIHF/edit?usp=sharing&ouid=103130785551991976565&rtpof=true&sd=true">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

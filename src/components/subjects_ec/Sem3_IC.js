@@ -10,7 +10,7 @@ function Sem3_IC() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:3 <br />
               Indian Constitution
             </i>
           </b>
@@ -26,7 +26,9 @@ function Sem3_IC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1uL2tpaMSdaaQDyKYq2kXG0XMs0I3Rcvh/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem3_IC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1uL2tpaMSdaaQDyKYq2kXG0XMs0I3Rcvh/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem3_IC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1uL2tpaMSdaaQDyKYq2kXG0XMs0I3Rcvh/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -69,7 +75,9 @@ function Sem3_IC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1uL2tpaMSdaaQDyKYq2kXG0XMs0I3Rcvh/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -83,7 +91,9 @@ function Sem3_IC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1xoGsbVs78vYiWcjgkcfIYOwiNTHjXUSq/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -97,7 +107,9 @@ function Sem3_IC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1xoGsbVs78vYiWcjgkcfIYOwiNTHjXUSq/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

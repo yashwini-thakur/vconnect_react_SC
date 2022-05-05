@@ -10,8 +10,8 @@ function Sem3_ETC() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
-              Maths-II
+              <br /> Sem:3 <br />
+              Effective Technical Communication
             </i>
           </b>
         </h2>
@@ -26,7 +26,9 @@ function Sem3_ETC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1R-zdziY5yZJfDNTTKzFoPOVuS52Uq79s/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem3_ETC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/16NDY9s2hsWCvaoN82Dg-_8YGXqyh0Aht/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem3_ETC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1YaDkWyBrVZ0jBWi6-SDDB4Fn1a5Q1FBq/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -69,7 +75,9 @@ function Sem3_ETC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/13b_vK00gALiZ0RLx7JzeKlrebsquUV8Q/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -83,7 +91,9 @@ function Sem3_ETC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1Iwp_6OIz6HBXvfJ_1zCzfN_Un12rQ7Or/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -97,7 +107,9 @@ function Sem3_ETC() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1NvPcdOAL7ZpVlL6F-jG6kHTuzrBdBx18/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

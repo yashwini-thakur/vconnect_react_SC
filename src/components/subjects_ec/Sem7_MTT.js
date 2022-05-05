@@ -26,7 +26,9 @@ function Sem7_MTT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1y73TQ6pPOZ9x1AV-w-CWi6wuss3WeXnn/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -42,7 +44,9 @@ function Sem7_MTT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1TmQsfKumTb6_G2YyYWXd6dBC-4OjWe35/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -58,7 +62,9 @@ function Sem7_MTT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/122ggDdM6H6dI13cOiQNRIrqFmGFiKy0U/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -73,7 +79,9 @@ function Sem7_MTT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1xcUZcza8C_6uJh4w4RAUg8isS6aFx8Gq/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -87,7 +95,9 @@ function Sem7_MTT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1dRC6O9d6lQetLAPwsxDZHSqOYthAcJhK/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -101,7 +111,9 @@ function Sem7_MTT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1zjjSJk-TSNO1DRPrsOXsdYSxffZaoV1U/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -115,7 +127,9 @@ function Sem7_MTT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1GQG7z7BjA7Vty_zOh8JPSy2hbxj5ssLj/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -129,7 +143,9 @@ function Sem7_MTT() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/12GL2davGa1WszeLpPshyJ1tOsSFE_IE1/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

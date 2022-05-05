@@ -26,7 +26,9 @@ function Sem7_AE() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1t_aoAxI0CCdQjYbxEsmq_7cRcAatjlgr/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem7_AE() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1vNXgWIBSPwQ0DbAs3Eq8kxcu2u_j8hHi/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem7_AE() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1zAsoTrQBBhFOfqK_3i4dtRW2JBtmdXga/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -71,7 +77,9 @@ function Sem7_AE() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1-1QAFO6_vLrUPX0fEOOS7sBh2fpI4ooh/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -85,7 +93,9 @@ function Sem7_AE() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1osWAgucGB8s2EpY8qjLo6UI0WFXBxXBe/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

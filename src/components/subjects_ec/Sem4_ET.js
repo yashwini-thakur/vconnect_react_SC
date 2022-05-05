@@ -10,7 +10,7 @@ function Sem4_ET() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:4 <br />
               Electomagnetic TheoryI
             </i>
           </b>
@@ -26,7 +26,9 @@ function Sem4_ET() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1u7s3Sc23tOBEb4GKF1qY6tgttujhXdBm/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -42,7 +44,9 @@ function Sem4_ET() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1yMeUi4OgRH6i6LMELa5uNU8X3cbFJ7B2/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -58,7 +62,9 @@ function Sem4_ET() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1zVXOtfmNyXs09KhLSgOkcclr3k9x8c18/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -73,7 +79,9 @@ function Sem4_ET() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1Moxt8uMZk2_10eLoQr8RQhxKxz48FbLb/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -89,7 +97,9 @@ function Sem4_ET() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1vOEtdpwMYvjMOwTmFJEu-nuCt85VHiF4/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -103,7 +113,9 @@ function Sem4_ET() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/14gFU22gd0OF1OWH5w6mACYwJPO6aEEKj/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

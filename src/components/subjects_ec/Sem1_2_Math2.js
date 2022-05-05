@@ -10,7 +10,7 @@ function Sem1_2_Math2() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:2 <br />
               Maths-II
             </i>
           </b>
@@ -26,7 +26,9 @@ function Sem1_2_Math2() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1n7CtBW0QlCbxQorA_ZCDVWKQzYlTbuBs/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem1_2_Math2() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/159dl9azTou1y4UsbWMoD4mIE5aM2IXaq/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem1_2_Math2() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1p3iM-4BO_N1ncarYFALByXxAgZ-edzgl/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -69,7 +75,9 @@ function Sem1_2_Math2() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/18bH-Rdftcyghegkh_Y1ttx2HwTUJlUIW/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -83,7 +91,9 @@ function Sem1_2_Math2() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1M95nCZY9-cIxzfbcQKqE-XxQoI49fILf/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -97,7 +107,9 @@ function Sem1_2_Math2() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1X4FQwucEoZbWvSXlFSXmZjc_SAe5f80E/view?usp=sharinghttps://drive.google.com/file/d/1X4FQwucEoZbWvSXlFSXmZjc_SAe5f80E/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

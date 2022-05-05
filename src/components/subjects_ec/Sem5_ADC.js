@@ -10,7 +10,7 @@ function Sem5_ADC() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
+              <br /> Sem:5 <br />
               Analog & Digital Communication
             </i>
           </b>

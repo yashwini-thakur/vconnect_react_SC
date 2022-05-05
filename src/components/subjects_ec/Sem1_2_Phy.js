@@ -11,8 +11,8 @@ function Sem1_2_Phy() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
-              Enviroumental Science
+              <br /> Sem:2 <br />
+              Physics
             </i>
           </b>
         </h2>
@@ -27,7 +27,9 @@ function Sem1_2_Phy() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1lgEMaSsLST7uODDlxLV9AJq3W0fyMkEI/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -41,7 +43,9 @@ function Sem1_2_Phy() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1ZMTslC7SK0N4-L1e2-UuXVhRpJKW8d10/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -55,7 +59,9 @@ function Sem1_2_Phy() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1kTRKeAPcgvx7NPQaIx7-kP2KduzLbCxG/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -70,7 +76,9 @@ function Sem1_2_Phy() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/186BGPjlm4VH1kueL0v_VhEuI1IsBvUvO/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -78,15 +86,15 @@ function Sem1_2_Phy() {
             <div class="face_sub face1_sub">
               <div class="content_sub">
                 <h3 class="h3_sub">CH: 5</h3>
-                <h3 class="h3_sub">
-                  <Link to="/superconductivity">Superconductivity</Link>
-                </h3>
+                <h3 class="h3_sub">Superconductivity</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1RGYarDjeau-_7M8LbSFWA9S9BAT4GrAS/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

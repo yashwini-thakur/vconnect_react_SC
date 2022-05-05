@@ -52,23 +52,21 @@ function Sem4() {
                   <tr>
                     <td>
                       {" "}
-                      <a title="DE2 - Design Engineering - I B - GTU">
-                        2140005
-                      </a>{" "}
+                      <a title="ACD">3141002</a>{" "}
                     </td>
                     <td>
                       {" "}
-                      <a title="Design Engineering - I B - GTU">DE2</a>{" "}
+                      <a title="Design Engineering - I B - GTU">ACD</a>{" "}
                     </td>
                     <td>
                       {" "}
-                      <a title="DE2 - GTU">Design Engineering - I B</a>{" "}
+                      <Link to="/sem4_acd">Analog Circuit Design</Link>{" "}
                     </td>
                   </tr>
                   <tr>
                     <td>
                       {" "}
-                      <a href="syllabus/sem_4/3141002.pdf">3141002</a>{" "}
+                      <a href="syllabus/sem_4/3141002.pdf">3150912</a>{" "}
                     </td>
                     <td>
                       {" "}

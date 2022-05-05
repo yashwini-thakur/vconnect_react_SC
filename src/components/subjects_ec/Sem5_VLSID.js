@@ -10,8 +10,8 @@ function Sem5_VLSID() {
           <b>
             <i>
               EC
-              <br /> Sem:1 <br />
-              Maths-II
+              <br /> Sem:5 <br />
+              VLSI
             </i>
           </b>
         </h2>
@@ -26,7 +26,9 @@ function Sem5_VLSID() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://docs.google.com/presentation/d/1BBXjwoKzAGPmnmqeQgE_dpiz4IbZmc12/edit?usp=sharing&ouid=103130785551991976565&rtpof=true&sd=true">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ function Sem5_VLSID() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/13oBAH8pzSTcyaYtxuXmCR4ck2BgQg32Z/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -54,7 +58,9 @@ function Sem5_VLSID() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1Jik4oB76JN3GwDti5Bzx02-qqRIxbgJe/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -69,7 +75,9 @@ function Sem5_VLSID() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1EySLdxHxcJdUl8PcvbEHZE8Gpw7wLR7U/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -86,7 +94,9 @@ function Sem5_VLSID() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1EySLdxHxcJdUl8PcvbEHZE8Gpw7wLR7U/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -100,7 +110,9 @@ function Sem5_VLSID() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1EySLdxHxcJdUl8PcvbEHZE8Gpw7wLR7U/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -114,7 +126,9 @@ function Sem5_VLSID() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1EySLdxHxcJdUl8PcvbEHZE8Gpw7wLR7U/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -128,7 +142,9 @@ function Sem5_VLSID() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1Te_grnMlnKfsYebIGVMAwCv_oulLLUyU/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -142,7 +158,9 @@ function Sem5_VLSID() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/11XJAeAQyXlcrnCF16VsAyQL7ILB7Z2zp/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -156,7 +174,9 @@ function Sem5_VLSID() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/11XJAeAQyXlcrnCF16VsAyQL7ILB7Z2zp/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -170,7 +190,9 @@ function Sem5_VLSID() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://docs.google.com/presentation/d/1ojmC8lTAA5_jP2HA7PyGLa51gD4AfIps/edit?usp=sharing&ouid=103130785551991976565&rtpof=true&sd=true">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>

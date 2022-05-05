@@ -26,7 +26,9 @@ function Sem7_DSP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1pFY7ZMhYfxztypsYzMhHTpZVwWB7kDFI/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -42,7 +44,9 @@ function Sem7_DSP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1xkbBoX6VfrhjiPnyNFR0gR-ANXkPSc1_/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -56,7 +60,9 @@ function Sem7_DSP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/15KmGOr5foGn20WjFRh302JbGFhLCJWym/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -71,7 +77,9 @@ function Sem7_DSP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1E6WvzC0j8ZABaPyOPj2KEmd2x-fND9d6/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -85,7 +93,9 @@ function Sem7_DSP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1ITxbgl4QiD-EJ1UXnHkYQWWRMATVLafy/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
@@ -99,7 +109,9 @@ function Sem7_DSP() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a href="https://drive.google.com/file/d/1JZv4igoytymbe1r6c11NkoA4NJqy7H_p/view?usp=sharing">
+                  NOTES
+                </a>
               </div>
             </div>
           </div>
