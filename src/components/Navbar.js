@@ -6,7 +6,7 @@ function Navbar() {
     <>
       <nav class="navbar bg-dark">
         <h1>
-          <a href="dashboard.html">
+          <a href="/">
             <FontAwesomeIcon icon="fa-solid fa-globe" />
             VConnect
           </a>
@@ -18,7 +18,7 @@ function Navbar() {
             </Link>
           </li>
           <li>
-            <a href="settings.html">
+            <a href="mailto:vconnect@edu.com">
               <i class="fa-solid fa-gear"></i> Contact
             </a>
           </li>

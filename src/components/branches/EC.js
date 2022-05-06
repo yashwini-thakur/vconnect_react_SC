@@ -8,7 +8,7 @@ function EC() {
         <div className="row_for_sem">
           <div className="column_for_sem">
             <div className="card_for_sem">
-              <Link to="/sem1_2 ">
+              <Link to="/sem1_2">
                 <h3>Semester 1</h3>
               </Link>
             </div>

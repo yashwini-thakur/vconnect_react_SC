@@ -39,7 +39,7 @@ function Page() {
                   lectures for all Engineering Branches.
                 </p>
                 <div class="buttons">
-                  <Link class="btn btn-primary" to="/Login">
+                  <Link class="btn btn-primary" to="/about">
                     About
                   </Link>
                   <Link to="/cards" class="btn btn">

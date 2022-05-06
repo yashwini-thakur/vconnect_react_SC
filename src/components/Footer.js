@@ -9,12 +9,15 @@ function Footer() {
             V<span>Connect</span>
           </h3>
           <p class="footer-links">
-            <a href="#" class="link-1">
+            <a href="/" class="link-1">
               Home
             </a>
-            <a href="#">About</a>
+            <a href="/about">About</a>
           </p>
-          <p class="footer-company-name">Company Name © 2015</p>
+          <p class="footer-company-name">
+            Yashwini Thakur
+            <br /> Rajvi Doshi
+          </p>
         </div>
         <div class="footer-center">
           <div>
@@ -27,26 +30,23 @@ function Footer() {
 
           <div>
             <i class="fa fa-phone"></i>
-            <p>+1.555.555.5555</p>
+            <p>+91 7227979983</p>
           </div>
 
           <div>
             <i class="fa fa-envelope"></i>
-            <p>
-              <a href="mailto:support@company.com">support@company.com</a>
-            </p>
           </div>
         </div>
 
         <div class="footer-right">
           <p class="footer-company-about">
             <span>About the website</span>
-            This website currently contains notes of all Semister Ec Engineering
+            This website contains notes of all Semister Ec Engineering
             department which are freely accessible to anyone.
           </p>
 
           <div class="footer-icons">
-            <a href="#">
+            {/* <a href="#">
               <i class="fa fa-facebook"></i>
             </a>
             <a href="#">
@@ -57,7 +57,7 @@ function Footer() {
             </a>
             <a href="#">
               <i class="fa fa-github"></i>
-            </a>
+            </a> */}
           </div>
         </div>
       </footer>

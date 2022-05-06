@@ -20,9 +20,9 @@ function Cards() {
               <div class="box_Changer">
                 <div class="content_Changer">
                   <h2>01</h2>
-                  <h3>Computer Engineering</h3>
+                  <h3>Electronics and Communication Engineering</h3>
                   <p></p>
-                  <Link to="/Computer">More Details</Link>
+                  <Link to="/EC">More Details</Link>
                 </div>
               </div>
             </div>
@@ -52,9 +52,9 @@ function Cards() {
               <div class="box_Changer">
                 <div class="content_Changer">
                   <h2>04</h2>
-                  <h3>Electronics and Communication Engineering</h3>
+                  <h3>Computer Engineering</h3>
                   <p></p>
-                  <Link to="/EC">More Details</Link>
+                  <Link to="/Computer">More Details</Link>
                 </div>
               </div>
             </div>
@@ -74,7 +74,7 @@ function Cards() {
                   <h2>06</h2>
                   <h3>Mechanical Engineering</h3>
                   <p></p>
-                  <Link to="/sem1_2">More Details</Link>
+                  <Link to="/mechanical">More Details</Link>
                 </div>
               </div>
             </div>

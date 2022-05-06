@@ -9,9 +9,9 @@ function Sem1_2_BE() {
         <h2 className="subject_details">
           <b>
             <i>
-              EC
-              <br /> Sem:2 <br />
-              Basic Electronics
+              {/* EC
+              <br /> Sem:2 <br /> */}
+              Basic Electronics &nbsp;
             </i>
           </b>
         </h2>
@@ -19,14 +19,18 @@ function Sem1_2_BE() {
           <div className="card_sub">
             <div className="face_sub face1_sub">
               <div className="content_sub">
-                <h3 className="h3_sub">Ch: 1</h3>
+                <h3 className="h3_sub">Chapter: 1</h3>
                 <h3 className="h3_sub">Diode theory and applications</h3>
               </div>
             </div>
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="https://drive.google.com/file/d/1V_FOi_MMtjOzRCXEdFpWw6wPOPji4QJb/view?usp=sharing">
+                <a
+                  href="https://drive.google.com/file/d/1V_FOi_MMtjOzRCXEdFpWw6wPOPji4QJb/view?usp=sharing"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   NOTES
                 </a>
               </div>
@@ -35,7 +39,7 @@ function Sem1_2_BE() {
           <div className="card_sub">
             <div className="face_sub face1_sub">
               <div className="content_sub">
-                <h3 className="h3_sub">Ch: 2</h3>
+                <h3 className="h3_sub">Chapter: 2</h3>
                 <h3 className="h3_sub">
                   Bipolar junction transistors and its biasing
                 </h3>
@@ -44,7 +48,11 @@ function Sem1_2_BE() {
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="https://drive.google.com/file/d/1-MQGtvXtBHTf43--EgOzor4Afiky_V4F/view?usp=sharing">
+                <a
+                  href="https://drive.google.com/file/d/1-MQGtvXtBHTf43--EgOzor4Afiky_V4F/view?usp=sharing"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   NOTES
                 </a>
               </div>
@@ -53,7 +61,7 @@ function Sem1_2_BE() {
           <div className="card_sub">
             <div className="face_sub face1_sub">
               <div className="content_sub">
-                <h3 className="h3_sub">Ch: 3</h3>
+                <h3 className="h3_sub">Chapter: 3</h3>
                 <h3 className="h3_sub">
                   Special purpose diodes and transistors
                 </h3>
@@ -62,7 +70,11 @@ function Sem1_2_BE() {
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="https://drive.google.com/file/d/1DbFG5vGpWtzSuEPNPYrp5VtWKo3wGkhr/view?usp=sharing">
+                <a
+                  href="https://drive.google.com/file/d/1DbFG5vGpWtzSuEPNPYrp5VtWKo3wGkhr/view?usp=sharing"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   NOTES
                 </a>
               </div>
@@ -72,7 +84,7 @@ function Sem1_2_BE() {
           <div className="card_sub">
             <div className="face_sub face1_sub">
               <div className="content_sub">
-                <h3 className="h3_sub">Ch: 4</h3>
+                <h3 className="h3_sub">Chapter: 4</h3>
                 <h3 className="h3_sub">
                   AC Analysis of BJT circuits and small signal amplifier
                 </h3>
@@ -81,7 +93,11 @@ function Sem1_2_BE() {
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="https://drive.google.com/file/d/1Osk8jqtdyCYUCcUF1GTay029JZ0PDf4j/view?usp=sharing">
+                <a
+                  href="https://drive.google.com/file/d/1Osk8jqtdyCYUCcUF1GTay029JZ0PDf4j/view?usp=sharing"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   NOTES
                 </a>
               </div>
@@ -90,7 +106,7 @@ function Sem1_2_BE() {
           <div className="card_sub">
             <div className="face_sub face1_sub">
               <div className="content_sub">
-                <h3 className="h3_sub">Ch: 5</h3>
+                <h3 className="h3_sub">Chapter: 5</h3>
                 <h3 className="h3_sub">
                   Field effect transistors (FET) and its biasing
                 </h3>
@@ -99,7 +115,11 @@ function Sem1_2_BE() {
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="https://drive.google.com/file/d/1e2mDTyut4B6rqGUm7-IwEVHMTwjPIsDj/view?usp=sharing">
+                <a
+                  href="https://drive.google.com/file/d/1e2mDTyut4B6rqGUm7-IwEVHMTwjPIsDj/view?usp=sharing"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   NOTES
                 </a>
               </div>
@@ -108,14 +128,18 @@ function Sem1_2_BE() {
           <div className="card_sub">
             <div className="face_sub face1_sub">
               <div className="content_sub">
-                <h3 className="h3_sub">Ch: 6</h3>
+                <h3 className="h3_sub">Chapter: 6</h3>
                 <h3 className="h3_sub">Digital Circuits</h3>
               </div>
             </div>
             <div className="face_sub face2_sub">
               <div className="content_sub">
                 <p className="p_sub">You can get notes here:</p>
-                <a href="https://drive.google.com/file/d/1-kWMe73RjT48JYCOnbxXyMsVR5gzgfl-/view?usp=sharing">
+                <a
+                  href="https://drive.google.com/file/d/1-kWMe73RjT48JYCOnbxXyMsVR5gzgfl-/view?usp=sharing"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   NOTES
                 </a>
               </div>

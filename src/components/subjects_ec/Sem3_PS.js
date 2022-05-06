@@ -9,8 +9,8 @@ function Sem3_PS() {
         <h2 class="subject_details">
           <b>
             <i>
-              EC
-              <br /> Sem:3 <br />
+              {/* EC
+              <br /> Sem:3 <br /> */}
               Probability And Statistics
             </i>
           </b>
@@ -19,42 +19,42 @@ function Sem3_PS() {
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 1</h3>
+                <h3 class="h3_sub">Chapter: 1</h3>
                 <h3 class="h3_sub">Basic Probability</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 2</h3>
+                <h3 class="h3_sub">Chapter: 2</h3>
                 <h3 class="h3_sub">Some special Probability Distributions</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 3</h3>
+                <h3 class="h3_sub">Chapter: 3</h3>
                 <h3 class="h3_sub">Basic Statistics</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
@@ -62,42 +62,42 @@ function Sem3_PS() {
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 4</h3>
+                <h3 class="h3_sub">Chapter: 4</h3>
                 <h3 class="h3_sub">Applied Statistics</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 5</h3>
+                <h3 class="h3_sub">Chapter: 5</h3>
                 <h3 class="h3_sub"></h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 6</h3>
+                <h3 class="h3_sub">Chapter: 6</h3>
                 <h3 class="h3_sub">Curve fitting by the numerical method</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>

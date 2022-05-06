@@ -3,6 +3,7 @@ import { Switch, Route, BrowserRouter } from "react-router-dom";
 import Page from "./components/Page";
 import "./components/Page_style.css";
 import Cards from "./components/Cards";
+import About from "./components/About";
 //from here importing all branches
 import Computer from "./components/branches/Computer";
 import EC from "./components/branches/EC";
@@ -83,7 +84,7 @@ function App() {
       <Navbar />
       <Switch>
         <Route exact path="/" component={Page} />
-        {/* <Route path="/login" component={Login} /> */}
+        <Route path="/about" component={About} />
         {/* <Route path="/dashboard" component={Dashboard} /> */}
         <Route path="/cards" component={Cards} />
         {/* From here routing all branches */}

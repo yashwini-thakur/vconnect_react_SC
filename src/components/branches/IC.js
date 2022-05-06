@@ -1,63 +1,63 @@
-import React, { useState } from "react";
-import { Accordion } from "react-bootstrap";
+import React from "react";
+//import { Accordion } from "react-bootstrap";
 // import "bootstrap/dist/css/bootstrap.min.css";
 
 function IC() {
-  const [activeId, setActiveId] = useState("0");
-
-  const toggleActive = (id) => {
-    if (activeId === id) {
-      setActiveId(null);
-    } else {
-      setActiveId(id);
-    }
-  };
   return (
-    <div>
-      <Accordion defaultActiveKey={activeId}>
-        <div
-          className={
-            activeId === "0" ? "panel-wrap active-panel" : "panel-wrap"
-          }
-        >
-          <div className="panel-header">
-            <Accordion.Toggle
-              onClick={() => toggleActive("0")}
-              className="panel-toggle"
-              variant="link"
-              eventKey="0"
-            >
-              Panel 1
-            </Accordion.Toggle>
+    <>
+      <div className="sem_body">
+        <div className="row_for_sem">
+          <div className="column_for_sem">
+            <div className="card_for_sem">
+              <h3>Semester 1</h3>
+            </div>
           </div>
 
-          <Accordion.Collapse eventKey="0">
-            <div className="panel-body">Body content for panel 1</div>
-          </Accordion.Collapse>
-        </div>
-
-        <div
-          className={
-            activeId === "1" ? "panel-wrap active-panel" : "panel-wrap"
-          }
-        >
-          <div className="panel-header">
-            <Accordion.Toggle
-              onClick={() => toggleActive("1")}
-              className="panel-toggle"
-              variant="link"
-              eventKey="1"
-            >
-              Panel 2
-            </Accordion.Toggle>
+          <div className="column_for_sem">
+            <div className="card_for_sem">
+              <h3>Semester 2</h3>
+            </div>
           </div>
 
-          <Accordion.Collapse eventKey="1">
-            <div className="panel-body">Body content for panel 2</div>
-          </Accordion.Collapse>
+          <div className="column_for_sem">
+            <div className="card_for_sem">
+              <h3>Semester 3</h3>
+            </div>
+          </div>
+
+          <div className="column_for_sem">
+            <div className="card_for_sem">
+              <h3>Semester 4</h3>
+            </div>
+          </div>
         </div>
-      </Accordion>
-    </div>
+        <div className="row_for_sem">
+          <div className="column_for_sem">
+            <div className="card_for_sem">
+              <h3>Semester 5</h3>
+            </div>
+          </div>
+
+          <div className="column_for_sem">
+            <div className="card_for_sem">
+              <h3>Semester 6</h3>
+            </div>
+          </div>
+
+          <div className="column_for_sem">
+            <div className="card_for_sem">
+              <h3>Semester 7</h3>
+            </div>
+          </div>
+
+          <div className="column_for_sem">
+            <div className="card_for_sem">
+              <h3>Semester 8</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
   );
 }
 export default IC;

@@ -9,9 +9,9 @@ function Sem6_WT() {
         <h2 class="subject_details">
           <b>
             <i>
-              EC
-              <br /> Sem:6 <br />
-              Web Technology
+              {/* EC
+              <br /> Sem:6 <br /> */}
+              Web Technology &nbsp;
             </i>
           </b>
         </h2>
@@ -19,42 +19,42 @@ function Sem6_WT() {
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 1</h3>
+                <h3 class="h3_sub">Chapter: 1</h3>
                 <h3 class="h3_sub">Introduction to Web</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 2</h3>
+                <h3 class="h3_sub">Chapter: 2</h3>
                 <h3 class="h3_sub">Introduction to HTML</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 3</h3>
+                <h3 class="h3_sub">Chapter: 3</h3>
                 <h3 class="h3_sub">JavaScript</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
@@ -62,28 +62,28 @@ function Sem6_WT() {
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 4</h3>
+                <h3 class="h3_sub">Chapter: 4</h3>
                 <h3 class="h3_sub">Cascading Style Sheet</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 5</h3>
+                <h3 class="h3_sub">Chapter: 5</h3>
                 <h3 class="h3_sub">Server-Side Scripting with PHP</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>

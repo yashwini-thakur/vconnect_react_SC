@@ -9,9 +9,9 @@ function Sem1_2_ES() {
         <h2 class="subject_details">
           <b>
             <i>
-              EC
-              <br /> Sem:1 <br />
-              Enviroumental Studies
+              {/* EC
+              <br /> Sem:1 <br /> */}
+              Environmental Studies
             </i>
           </b>
         </h2>
@@ -19,42 +19,42 @@ function Sem1_2_ES() {
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">CH-1</h3>
+                <h3 class="h3_sub">Chapter 1</h3>
                 <h3 class="h3_sub">INTRODUCTION TO ENVIRONMENT</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">Ch: 2</h3>
+                <h3 class="h3_sub">Chapter 2</h3>
                 <h3 class="h3_sub">ENVIRONMENTAL POLLUTION</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">ch3</h3>
+                <h3 class="h3_sub">Chapter 3</h3>
                 <h3 class="h3_sub">GLOBAL ENVIRONMENTAL ISSUES</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
@@ -62,7 +62,7 @@ function Sem1_2_ES() {
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">CH-4</h3>
+                <h3 class="h3_sub">Chapter 4</h3>
                 <h3 class="h3_sub">
                   BASIC CONCEPT OF GREEN BUILDING AND SMART CITIES
                 </h3>
@@ -71,21 +71,21 @@ function Sem1_2_ES() {
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>
           <div class="card_sub">
             <div class="face_sub face1_sub">
               <div class="content_sub">
-                <h3 class="h3_sub">CH-5</h3>
+                <h3 class="h3_sub">Chapter 5</h3>
                 <h3 class="h3_sub">CONCEPT OF 4R’s</h3>
               </div>
             </div>
             <div class="face_sub face2_sub">
               <div class="content_sub">
                 <p class="p_sub">You can get notes here:</p>
-                <a href="#">NOTES</a>
+                <a target="_blank">NOTES</a>
               </div>
             </div>
           </div>

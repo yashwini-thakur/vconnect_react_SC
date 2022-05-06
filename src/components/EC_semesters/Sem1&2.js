@@ -380,7 +380,7 @@ function Sem1_2() {
                       </td>
                       <td>
                         {" "}
-                        <Link to="/sem1_2_phy"> Physicss</Link>{" "}
+                        <Link to="/sem1_2_phy"> Physics</Link>{" "}
                       </td>
                     </tr>
                   </tbody>
